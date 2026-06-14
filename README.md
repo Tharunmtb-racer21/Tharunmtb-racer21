@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Tharun 👋
 
-<!--
-**Tharunmtb-racer21/Tharunmtb-racer21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Freelance Developer | Battery Researcher | Technical Writer
 
-Here are some ideas to get you started:
+I build practical software solutions, conduct research in battery technologies, and create technical content that simplifies complex engineering concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+* 💻 Freelancer,Full Stack Web Development
+* 🔋 Battery & Energy Storage Research
+* 📝 Technical Writing & Documentation
+* 🤖 AI-Assisted Product Development
+* 📊 Engineering Research & Analysis
+
+## Featured Projects
+
+### Queue Cure '26
+
+Real-time hospital queue management system with:
+
+* Live patient tracking
+* Voice announcements
+* Estimated wait-time prediction
+* Receptionist dashboard
+* Public display system
+
+### Battery Research
+
+Research work focused on:
+
+* Lithium-ion batteries
+* Solid-state batteries
+* Battery Management Systems (BMS)
+* Sustainable energy storage
+
+### Technical Writing
+
+Creating:
+
+* Research articles
+* Engineering reports
+* Technical documentation
+* Educational content
+
+## Skills
+
+### Development
+
+React • JavaScript • HTML • CSS • Firebase • Git • GitHub
+
+### Engineering
+
+Battery Technology • Power Electronics • Renewable Energy • Semiconductor Devices
+
+### Writing
+
+Technical Documentation • Research Writing • Academic Reports
+
+## Let's Connect
+
+* GitHub: github.com/Tharunmtb-racer21
+* LinkedIn: Add your LinkedIn profile
+* Email: Add your professional email
+
+⭐ Building technology that bridges engineering and software.
