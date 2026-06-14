@@ -1,65 +1,31 @@
-# Hi, I'm Tharun 👋
+# 💫 About Me:
+Freelance Developer | Battery Researcher | Technical Writer<br>I build practical software solutions, conduct research in battery technologies, and create technical content that simplifies complex engineering concepts.<br><br>🚀 What I Do<br>💻 Freelancer,Full Stack Web Development<br>🔋 Battery & Energy Storage Research<br>📝 Technical Writing & Documentation<br>🤖 AI-Assisted Product Development<br>📊 Engineering Research & Analysis<br>Featured Projects<br>Queue Cure '26<br>Real-time hospital queue management system with:<br><br>Live patient tracking<br>Voice announcements<br>Estimated wait-time prediction<br>Receptionist dashboard<br>Public display system<br>Battery Research<br>Research work focused on:<br><br>Lithium-ion batteries<br>Solid-state batteries<br>Battery Management Systems (BMS)<br>Sustainable energy storage<br>Technical Writing<br>Creating:<br><br>Research articles<br>Engineering reports<br>Technical documentation<br>Educational content<br>Skills<br>Development<br>React • JavaScript • HTML • CSS • Firebase • Git • GitHub<br><br>Engineering<br>Battery Technology • Power Electronics • Renewable Energy • Semiconductor Devices<br><br>Writing<br>Technical Documentation • Research Writing • Academic Reports<br><br>Let's Connect<br>GitHub: github.com/Tharunmtb-racer21<br>LinkedIn: https://www.linkedin.com/in/tharunmtbracer21/<br>Email: tharunnallasamy2602@gmail.com<br>⭐ Building technology that bridges engineering and software.
 
-### Freelance Developer | Battery Researcher | Technical Writer
 
-I build practical software solutions, conduct research in battery technologies, and create technical content that simplifies complex engineering concepts.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ https://www.linkedin.com/in/tharunmtbracer21/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tharun Nallasamy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tharunnallasamy2602@gmail.com) 
 
-## 🚀 What I Do
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Tharunmtb-racer21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Tharunmtb-racer21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tharunmtb-racer21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-* 💻 Freelancer,Full Stack Web Development
-* 🔋 Battery & Energy Storage Research
-* 📝 Technical Writing & Documentation
-* 🤖 AI-Assisted Product Development
-* 📊 Engineering Research & Analysis
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tharunmtb-racer21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Featured Projects
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### Queue Cure '26
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Tharunmtb-racer21&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
-Real-time hospital queue management system with:
+---
+[![](https://komarev.com/ghpvc/?username=Tharunmtb-racer21&icon=6&color=4)](https://visitcount.itsvg.in)
 
-* Live patient tracking
-* Voice announcements
-* Estimated wait-time prediction
-* Receptionist dashboard
-* Public display system
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ https://www.linkedin.com/in/tharunmtbracer21/) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ https://www.linkedin.com/in/tharunmtbracer21/) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ https://www.linkedin.com/in/tharunmtbracer21/) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ https://www.linkedin.com/in/tharunmtbracer21/) 
 
-### Battery Research
-
-Research work focused on:
-
-* Lithium-ion batteries
-* Solid-state batteries
-* Battery Management Systems (BMS)
-* Sustainable energy storage
-
-### Technical Writing
-
-Creating:
-
-* Research articles
-* Engineering reports
-* Technical documentation
-* Educational content
-
-## Skills
-
-### Development
-
-React • JavaScript • HTML • CSS • Firebase • Git • GitHub
-
-### Engineering
-
-Battery Technology • Power Electronics • Renewable Energy • Semiconductor Devices
-
-### Writing
-
-Technical Documentation • Research Writing • Academic Reports
-
-## Let's Connect
-
-* GitHub: github.com/Tharunmtb-racer21
-* LinkedIn: https://www.linkedin.com/in/tharunmtbracer21/
-* Email: tharunnallasamy2602@gmail.com
-
-⭐ Building technology that bridges engineering and software.
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
