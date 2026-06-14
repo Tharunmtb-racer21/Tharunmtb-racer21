@@ -59,7 +59,7 @@ Technical Documentation • Research Writing • Academic Reports
 ## Let's Connect
 
 * GitHub: github.com/Tharunmtb-racer21
-* LinkedIn: Add your LinkedIn profile
-* Email: Add your professional email
+* LinkedIn: https://www.linkedin.com/in/tharunmtbracer21/
+* Email: tharunnallasamy2602@gmail.com
 
 ⭐ Building technology that bridges engineering and software.
